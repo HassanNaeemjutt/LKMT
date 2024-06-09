@@ -1,0 +1,214 @@
+اور/CCONJ وہ/PRON یعنی/PART نبئ/PROPN اکرم/PROPN صلی/PROPN اللہ/PROPN علیہ/PROPN وآلہ/PROPN وسلم/PROPN غیب/PROPN کے/ADP بتانے/VERB پر/ADP بالکل/ADV بخیل/NOUN نہیں/PART ہیں/VERB مالک/NOUN عرش/NOUN نے/ADP ان/PRON کے/ADP لئے/ADP کوئی/PRON کمی/NOUN نہیں/PART چھوڑی/VERB ۔/PUNCT
+اور/CCONJ وہ/PRON قرآن/PROPN ہرگز/ADV کسی/PRON شیطان/NOUN مردود/NOUN کا/ADP کلام/NOUN نہیں/PART ہے/AUX ۔/PUNCT
+پھر/ADV اے/PROPN بدبختو/PROPN !/PUNCT تم/PRON اتنے/DET بڑے/ADJ خزانے/NOUN کو/ADP چھوڑ/VERB کر/AUX کدھر/VERB چلے/VERB جا/AUX رہے/AUX ہو/AUX ۔/PUNCT
+یہ/DET قرآن/PROPN تو/PART تمام/DET جہانوں/NOUN کے/ADP لئے/ADP صحیفۂ/ADJ نصیحت/NOUN ہے/AUX ۔/PUNCT
+تم/PRON میں/ADP سے/ADP ہر/DET اس/DET شخص/NOUN کے/ADP لئے/ADP اس/DET چشمہ/NOUN سے/ADP ہدایت/NOUN میسر/ADJ آسکتی/ADJ ہے/AUX جو/PRON سیدھی/ADJ راہ/NOUN چلنا/VERB چاہے/AUX ۔/PUNCT
+اور/CCONJ تم/PRON وہی/PRON کچھ/DET چاہ/VERB سکتے/AUX ہو/AUX جو/PRON اللہ/PROPN چاہے/VERB جو/PRON تمام/ADJ جہانوں/NOUN کا/ADP رب/NOUN ہے/AUX ۔/PUNCT
+جب/PRON سب/PRON آسمانی/ADJ کرے/VERB پھٹ/VERB جائیں/AUX گے/AUX ۔/PUNCT
+اور/CCONJ جب/PRON سیارے/NOUN گر/VERB کر/AUX بکھر/VERB جائیں/AUX گے/AUX ۔/PUNCT
+اور/CCONJ جب/PRON سمندر/ADJ اور/CCONJ دریا/NOUN ابھر/VERB کر/AUX بہہ/VERB جائیں/AUX گے/AUX ۔/PUNCT
+اور/CCONJ جب/PRON قبریں/NOUN زیر/ADP و/CCONJ زبر/NOUN کر/VERB دی/AUX جائیں/AUX گی/AUX ۔/PUNCT
+تو/SCONJ ہر/DET شخص/NOUN جان/NOUN لے/VERB گا/AUX کہ/SCONJ کیا/DET عمل/NOUN اس/PRON نے/ADP آگے/ADV بھیجا/VERB اور/CCONJ کیا/DET پیچھے/ADV چھوڑ/VERB آیا/AUX تھا/AUX ۔/PUNCT
+اے/NOUN انسان/NOUN !/PUNCT تجھے/PRON کس/DET چیز/NOUN نے/ADP اپنے/PRON رب/NOUN کریم/PROPN کے/ADP بارے/ADP میں/ADP دھوکے/NOUN میں/ADP ڈال/VERB دیا/AUX ۔/PUNCT
+جس/PRON نے/ADP رحم/NOUN مادر/NOUN کے/ADP اندر/ADP ایک/NUM نطفہ/NOUN میں/ADP سے/ADP تجھے/PRON پیدا/ADJ کیا/VERB ،/PUNCT پھر/ADV اس/PRON نے/ADP تجھے/PRON اعضا/NOUN سازی/NOUN کے/ADP لئے/ADP ابتداء/NOUN درست/ADJ اور/CCONJ سیدھا/ADJ کیا/VERB ،/PUNCT پھر/ADV وہ/PRON تیری/PRON ساخت/NOUN میں/ADP متناسب/ADJ تبدیلی/NOUN لایا/VERB ۔/PUNCT
+جس/DET صورت/NOUN میں/ADP بھی/PART چاہا/VERB اس/PRON نے/ADP تجھے/PRON ترکیب/NOUN دے/VERB دیا/AUX ۔/PUNCT
+حقیقت/NOUN تو/PART یہ/PRON ہے/AUX اور/CCONJ تم/PRON اس/PRON کے/ADP برعکس/ADP روز/NOUN جزا/NOUN کو/ADP جھٹلاتے/VERB ہو/AUX ۔/PUNCT
+حالانکہ/SCONJ تم/PRON پر/ADP نگہبان/ADJ فرشتے/NOUN مقرر/ADJ ہیں/AUX ۔/PUNCT
+جو/PRON بہت/ADV معزز/ADJ ہیں/AUX تمہارے/PRON اعمال/NOUN نامے/ADJ لکھنے/VERB والے/AUX ہیں/VERB ۔/PUNCT
+وہ/PRON ان/DET تمام/DET کاموں/NOUN کو/ADP جانتے/VERB ہیں/AUX جو/PRON تم/PRON کرتے/VERB ہو/AUX ۔/PUNCT
+بیشک/X نیکوکار/ADJ جنت/NOUN نعمت/NOUN میں/ADP ہوں/AUX گے/AUX ۔/PUNCT
+اور/CCONJ بیشک/NOUN بدکار/NOUN دوزخ/NOUN سوزاں/NOUN میں/ADP ہوں/AUX گے/AUX ۔/PUNCT
+وہ/PRON اس/PRON میں/ADP قیامت/NOUN کے/ADP روز/NOUN داخل/NOUN ہوں/VERB گے/AUX ۔/PUNCT
+اور/CCONJ وہ/PRON اس/DET دوزخ/NOUN سے/ADP کبھی/PRON بھی/PART غائب/ADJ نہ/PART ہو/VERB سکیں/AUX گے/AUX ۔/PUNCT
+اور/CCONJ آپ/PRON نے/ADP کیا/VERB سمجھا/VERB کہ/SCONJ روز/NOUN جزا/NOUN کیا/VERB ہے/AUX ۔/PUNCT
+پھر/ADV آپ/PRON نے/ADP کیا/VERB جانا/AUX کہ/SCONJ روز/NOUN جزا/NOUN کیا/VERB ہے/AUX ۔/PUNCT
+یہ/DET وہ/DET دن/NOUN ہے/AUX جب/PRON کوئی/DET شخص/NOUN کسی/PRON کے/ADP لئے/ADP کسی/PRON چیز/NOUN کا/ADP مالک/NOUN نہ/PART ہوگا/VERB ،/PUNCT اور/CCONJ حکم/NOUN فرمائی/VERB اس/DET دن/NOUN اللہ/PROPN ہی/PART کی/VERB ہوگی/VERB ۔/PUNCT
+بربادی/NOUN ہے/AUX ناپ/NOUN تول/NOUN میں/ADP کمی/NOUN کرنے/VERB والوں/ADP کے/ADP لئے/AUX ۔/PUNCT
+یہ/DET لوگ/NOUN جب/PRON دوسرے/ADJ لوگوں/NOUN سے/ADP ناپ/VERB لیتے/AUX ہیں/AUX تو/SCONJ ان/PRON سے/ADP پورا/ADJ لیتے/VERB ہیں/AUX ۔/PUNCT
+اور/CCONJ جب/PRON انہیں/PRON خود/PRON ناپ/VERB کر/AUX یا/CCONJ تول/NOUN کر/VERB دیتے/AUX ہیں/AUX تو/SCONJ گھٹا/VERB کر/VERB دیتے/AUX ہیں/AUX ۔/PUNCT
+کیا/PRON یہ/DET لوگ/NOUN اس/DET بات/NOUN کا/ADP یقین/NOUN نہیں/PART رکھتے/VERB کہ/SCONJ وہ/PRON مرنے/VERB کے/ADP بعد/ADV دوبارہ/ADV اٹھائے/VERB جائیں/AUX گے/AUX ۔/PUNCT
+ایک/NUM بڑے/ADJ سخت/ADJ دن/NOUN کے/ADP لئے/VERB ۔/PUNCT
+جس/DET دن/NOUN سب/DET لوگ/NOUN تمام/DET جہانوں/NOUN کے/ADP رب/NOUN کے/ADP حضور/PROPN کھڑے/VERB ہوں/AUX گے/AUX ۔/PUNCT
+یہ/DET حق/NOUN ہے/AUX کہ/SCONJ بدکرداروں/NOUN کا/ADP نامۂ/ADJ اعمال/NOUN سجین/PROPN یعنی/ADV دیوان/PROPN خانۂ/PROPN جہنم/NOUN میں/ADP ہے/AUX ۔/PUNCT
+اور/CCONJ آپ/PRON نے/ADP کیا/VERB جانا/AUX کہ/SCONJ سجین/NOUN کیا/VERB ہے/AUX ۔/PUNCT
+یہ/DET قید/NOUN خانۂ/PROPN دوزخ/NOUN میں/ADP اس/DET بڑے/ADJ دیوان/NOUN کے/ADP اندر/ADP لکھی/VERB ہوئی/AUX ایک/NUM کتاب/NOUN ہے/AUX جس/PRON میں/ADP ہر/ADJ جہنمی/NOUN کا/ADP نام/NOUN اور/CCONJ اس/PRON کے/ADP اعمال/NOUN درج/ADJ ہیں/AUX ۔/PUNCT
+اس/DET دن/NOUN جھٹلانے/VERB والوں/ADP کے/ADP لئے/ADP تباہی/NOUN ہوگی/VERB ۔/PUNCT
+جو/DET لوگ/NOUN روز/NOUN جزا/NOUN کو/ADP جھٹلاتے/VERB ہیں/AUX ۔/PUNCT
+اور/CCONJ اسے/PRON کوئی/PRON نہیں/PART جھٹلاتا/VERB سوائے/SCONJ ہر/DET اس/DET شخص/NOUN کے/ADP جو/PRON سرکش/ADJ و/CCONJ گنہگار/ADJ ہے/AUX ۔/PUNCT
+جب/PRON اس/PRON پر/ADP ہماری/PRON آیتیں/NOUN پڑھ/VERB کر/AUX سنائی/VERB جاتی/AUX ہیں/AUX تو/SCONJ کہتا/VERB یا/CCONJ سمجھتا/VERB ہے/AUX کہ/SCONJ یہ/PRON تو/PART اگلے/ADJ لوگوں/NOUN کی/ADP کہانیاں/NOUN ہیں/AUX ۔/PUNCT
+ایسا/DET ہرگز/ADV نہیں/PART بلکہ/SCONJ حقیقت/NOUN یہ/PRON ہے/AUX کہ/SCONJ ان/PRON کے/ADP دلوں/NOUN پر/ADP ان/DET اعمال/NOUN بد/NOUN کا/ADP زنگ/NOUN چڑھ/VERB گیا/AUX ہے/AUX جو/PRON وہ/PRON کمایا/VERB کرتے/AUX تھے/AUX اس/PRON لیے/ADP آیتیں/NOUN ان/PRON کے/ADP دل/NOUN پر/ADP اثر/NOUN نہیں/PART کرتیں/VERB ۔/PUNCT
+حق/NOUN یہ/PRON ہے/AUX کہ/SCONJ بیشک/X اس/DET دن/NOUN انہیں/PRON اپنے/PRON ر/NOUN ب/NOUN کے/ADP دیدار/NOUN سے/ADP محروم/ADJ کرنے/VERB کے/ADP لئے/ADP پس/NOUN پردہ/NOUN کر/VERB دیا/AUX جائے/AUX گا/AUX ۔/PUNCT
+پھر/ADV وہ/PRON دوزخ/NOUN میں/ADP جھونک/VERB دیئے/AUX جائیں/AUX گے/AUX ۔/PUNCT
+پھر/ADV ان/PRON سے/ADP کہا/VERB جائے/AUX گا/AUX :/PUNCT یہ/DET وہ/PRON عذاب/NOUN جہنم/NOUN ہے/AUX جسے/PRON تم/PRON جھٹلایا/VERB کرتے/AUX تھے/AUX ۔/PUNCT
+یہ/PRON بھی/PART حق/NOUN ہے/AUX کہ/SCONJ بیشک/NOUN نیکوکاروں/NOUN کا/ADP نوشتہ/ADJ اعمال/NOUN علیین/NOUN یعنی/ADV دیوان/PROPN خانۂ/PROPN جنت/NOUN میں/ADP ہے/AUX ۔/PUNCT
+اور/CCONJ آپ/PRON نے/ADP کیا/VERB جانا/AUX کہ/SCONJ علیین/ADJ کیا/VERB ہے/AUX ۔/PUNCT
+یہ/DET جنت/NOUN کے/ADP اعلیٰ/ADJ درجہ/NOUN میں/ADP اس/DET بڑے/ADJ دیوان/NOUN کے/ADP اندر/ADP لکھی/VERB ہوئی/AUX ایک/NUM کتاب/NOUN ہے/AUX جس/PRON میں/ADP ان/DET جنتیوں/NOUN کے/ADP نام/NOUN اور/CCONJ اعمال/NOUN درج/ADJ ہیں/AUX جنہیں/PRON اعلیٰ/ADJ مقامات/NOUN دئیے/VERB جائیں/AUX گے/AUX ۔/PUNCT
+اس/DET جگہ/NOUN اللہ/PROPN کے/ADP مقرب/ADJ فرشتے/NOUN حاضر/ADJ رہتے/VERB ہیں/AUX ۔/PUNCT
+بیشک/X نیکوکار/ADJ راحت/NOUN و/CCONJ مسرت/NOUN سے/ADP نعمتوں/NOUN والی/ADP جنت/NOUN میں/ADP ہوں/AUX گے/AUX ۔/PUNCT
+تختوں/NOUN پر/ADP بیٹھے/VERB نظارے/NOUN کر/VERB رہے/AUX ہوں/AUX گے/AUX ۔/PUNCT
+آپ/PRON ان/PRON کے/ADP چہروں/NOUN سے/ADP ہی/PART نعمت/NOUN و/CCONJ راحت/NOUN کی/ADP رونق/NOUN اور/CCONJ شگفتگی/NOUN معلوم/ADJ کر/VERB لیں/AUX گے/AUX ۔/PUNCT
+انہیں/PRON سر/NOUN بہ/PART مہر/NOUN بڑی/ADJ لذیذ/NOUN شراب/NOUN طہور/NOUN پلائی/VERB جائے/AUX گی/AUX ۔/PUNCT
+اس/PRON کی/ADP مہر/NOUN کستوری/NOUN کی/ADP ہوگی/VERB ،/PUNCT اور/CCONJ یہی/DET وہ/PRON شراب/NOUN ہے/AUX جس/PRON کے/ADP حصول/NOUN میں/ADP شائقین/NOUN کو/ADP جلد/ADV کوشش/NOUN کر/VERB کے/AUX سبقت/NOUN لینی/VERB چاہیے/AUX کوئی/PRON شراب/NOUN نعمت/NOUN کا/ADP طالب/NOUN و/CCONJ شائق/ADJ ہے/AUX ،/PUNCT کوئی/PRON شراب/NOUN قربت/NOUN کا/ADP اور/CCONJ کوئی/PRON شراب/NOUN دیدار/NOUN کا/ADP ۔/PUNCT ہر/DET کسی/PRON کو/ADP اس/PRON کے/ADP شوق/NOUN کے/ADP مطابق/ADP پلائی/VERB جائے/AUX گی/AUX ۔/PUNCT
+اور/CCONJ اس/DET شراب/NOUN میں/ADP آب/NOUN تسنیم/PROPN کی/ADP آمیزش/NOUN ہوگی/VERB ۔/PUNCT
+یہ/DET تسنیم/NOUN ایک/NUM چشمہ/NOUN ہے/AUX جہاں/PRON سے/ADP صرف/PART اہل/NOUN قربت/NOUN پیتے/VERB ہیں/AUX ۔/PUNCT
+بیشک/X مجرم/ADJ لوگ/NOUN ایمان/NOUN والوں/ADP کا/ADP دنیا/NOUN میں/ADP مذاق/NOUN اڑایا/VERB کرتے/AUX تھے/AUX ۔/PUNCT
+اور/CCONJ جب/PRON ان/PRON کے/ADP پاس/ADP سے/ADP گزرتے/VERB تو/SCONJ آپس/NOUN میں/ADP آنکھوں/NOUN سے/ADP اشارہ/NOUN بازی/NOUN کرتے/VERB تھے/AUX ۔/PUNCT
+اور/CCONJ جب/PRON اپنے/PRON گھر/NOUN والوں/ADP کی/ADP طرف/ADP لوٹتے/VERB تو/SCONJ مومنوں/NOUN کی/ADP تنگ/NOUN دستی/NOUN اور/CCONJ اپنی/PRON خوش/ADJ حالی/NOUN کا/ADP موازنہ/NOUN کر/VERB کے/AUX اتراتے/VERB اور/CCONJ دل/NOUN لگی/VERB کرتے/AUX ہوئے/AUX پلٹتے/VERB تھے/AUX ۔/PUNCT
+اور/CCONJ جب/PRON یہ/DET مغرور/ADJ لوگ/NOUN ان/DET کمزور/ADJ حال/NOUN مومنوں/NOUN کو/ADP دیکھتے/VERB تو/SCONJ کہتے/VERB :/PUNCT یقینا/SCONJ یہ/DET لوگ/NOUN راہ/NOUN سے/ADP بھٹک/VERB گئے/AUX ہیں/AUX یعنی/SCONJ یہ/DET دنیا/NOUN گنوا/VERB بیٹھے/AUX ہیں/AUX اور/CCONJ آخرت/NOUN تو/PART ہے/AUX ہی/PART فقط/ADJ افسانہ/NOUN ۔/PUNCT
+حالانکہ/SCONJ وہ/PRON ان/PRON کے/ADP حال/NOUN پر/ADP نگہبان/ADJ بنا/VERB کر/AUX نہیں/PART بھیجے/VERB گئے/AUX تھے/AUX ۔/PUNCT
+پس/NOUN آج/NOUN دیکھو/PRON اہل/NOUN ایمان/NOUN کافروں/NOUN پر/ADP ہنس/VERB رہے/AUX ہیں/AUX ۔/PUNCT
+سجے/VERB ہوئے/VERB تختوں/NOUN پر/ADP بیٹھے/VERB اپنی/PRON خوش/ADJ حالی/NOUN اور/CCONJ کافروں/NOUN کی/ADP بدحالی/NOUN کا/ADP نظارہ/NOUN کر/VERB رہے/AUX ہیں/AUX ۔/PUNCT
+سو/NUM کیا/DET کافروں/NOUN کو/ADP اس/DET مذاق/NOUN کا/ADP پورا/ADJ بدلہ/NOUN دے/VERB دیا/AUX گیا/AUX جو/PRON وہ/PRON مسلمانوں/NOUN سے/ADP کیا/VERB کرتے/AUX تھے/AUX ۔/PUNCT
+جب/PRON سب/PRON آسمانی/ADJ کرے/VERB پھٹ/VERB جائیں/AUX گے/AUX ۔/PUNCT
+اور/CCONJ اپنے/PRON رب/NOUN کا/ADP حکم/NOUN انشقاق/NOUN بجا/VERB لائیں/AUX گے/AUX اور/CCONJ یہی/DET تعمیل/NOUN امر/NOUN اس/PRON کے/ADP لائق/ADJ ہے/AUX ۔/PUNCT
+اور/CCONJ جب/PRON زمین/NOUN ریزہ/NOUN ریزہ/NOUN کر/VERB کے/AUX پھیلا/VERB دی/AUX جائے/AUX گی/AUX ۔/PUNCT
+اور/CCONJ جو/PRON کچھ/DET اس/PRON کے/ADP اندر/ADP ہے/AUX وہ/PRON اسے/PRON نکال/VERB باہر/ADV پھینکے/VERB گی/AUX اور/CCONJ خالی/ADJ ہو/VERB جائے/AUX گی/AUX ۔/PUNCT
+اور/CCONJ وہ/PRON بھی/PART اپنے/PRON رب/NOUN کا/ADP حکم/NOUN انشقاق/NOUN بجا/VERB لائے/AUX گی/AUX اور/CCONJ یہی/DET اطاعت/NOUN اس/PRON کے/ADP لائق/ADJ ہے/AUX ۔/PUNCT
+اے/NOUN انسان/NOUN !/PUNCT تو/SCONJ اپنے/PRON رب/NOUN تک/ADP پہنچنے/VERB میں/ADP سخت/ADJ مشقتیں/NOUN برداشت/NOUN کرتا/VERB ہے/AUX بالآخر/ADV تجھے/PRON اسی/PRON سے/ADP جا/VERB ملنا/AUX ہے/AUX ۔/PUNCT
+پس/NOUN جس/DET شخص/NOUN کا/ADP نامۂ/ADJ اعمال/NOUN اس/PRON کے/ADP داہنے/NOUN ہاتھ/NOUN میں/ADP دیا/VERB جائے/AUX گا/AUX ۔/PUNCT
+تو/SCONJ عنقریب/ADV اس/PRON سے/ADP آسان/ADJ سا/PART حساب/NOUN لیا/VERB جائے/AUX گا/AUX ۔/PUNCT
+اور/CCONJ وہ/PRON اپنے/PRON اہل/NOUN خانہ/NOUN کی/ADP طرف/ADP مسرور/ADJ و/CCONJ شاداں/NOUN پلٹے/VERB گا/AUX ۔/PUNCT
+اور/CCONJ البتہ/SCONJ وہ/DET شخص/NOUN جس/PRON کا/ADP نامۂ/ADJ اعمال/NOUN اس/PRON کی/ADP پیٹھ/NOUN کے/ADP پیچھے/ADP سے/ADP دیا/VERB جائے/AUX گا/AUX ۔/PUNCT
+تو/SCONJ وہ/PRON عنقریب/ADV موت/NOUN کو/ADP پکارے/VERB گا/AUX ۔/PUNCT
+اور/CCONJ وہ/PRON دوزخ/NOUN کی/ADP بھڑکتی/VERB ہوئی/AUX آگ/NOUN میں/ADP داخل/NOUN ہوگا/VERB ۔/PUNCT
+بیشک/X وہ/PRON دنیا/NOUN میں/ADP اپنے/PRON اہل/NOUN خانہ/NOUN میں/ADP خوش/ADJ و/CCONJ خرم/ADJ رہتا/VERB تھا/AUX ۔/PUNCT
+بیشک/NOUN اس/PRON نے/ADP یہ/DET گمان/NOUN کر/VERB لیا/AUX تھا/AUX کہ/SCONJ وہ/PRON حساب/NOUN کے/ADP لئے/ADP اللہ/PROPN کے/ADP پاس/ADP ہرگز/ADV لوٹ/VERB کر/AUX نہ/PART جائے/AUX گا/AUX ۔/PUNCT
+کیوں/PRON نہیں/PART !/PUNCT بیشک/X اس/PRON کا/ADP رب/NOUN اس/PRON کو/ADP خوب/ADJ دیکھنے/VERB والا/ADP ہے/VERB ۔/PUNCT
+سو/NUM مجھے/PRON قسم/NOUN ہے/AUX شفق/NOUN یعنی/ADV شام/NOUN کی/ADP سرخی/NOUN یا/CCONJ اس/PRON کے/ADP بعد/ADP کے/ADP اجالے/NOUN کی/VERB ۔/PUNCT
+اور/CCONJ رات/NOUN کی/ADP اور/CCONJ ان/DET چیزوں/NOUN کی/ADP جنہیں/PRON وہ/PRON اپنے/PRON دامن/NOUN میں/ADP سمیٹ/VERB لیتی/AUX ہے/AUX ۔/PUNCT
+اور/CCONJ چاند/NOUN کی/ADP جب/PRON وہ/PRON پورا/ADJ دکھائی/VERB دیتا/AUX ہے/AUX ۔/PUNCT
+تم/PRON یقینا/PRON طبق/ADJ در/NOUN طبق/NOUN ضرور/ADJ سواری/NOUN کرتے/VERB ہوئے/AUX جاؤ/VERB گے/AUX ۔/PUNCT
+تو/SCONJ انہیں/PRON کیا/PRON ہو/VERB گیا/AUX ہے/AUX کہ/SCONJ قرآنی/ADJ پیشین/NOUN گوئی/NOUN کی/ADP صداقت/NOUN دیکھ/VERB کر/AUX بھی/PART ایمان/NOUN نہیں/PART لاتے/VERB ۔/PUNCT
+اور/CCONJ جب/PRON ان/PRON پر/ADP قرآن/PROPN پڑھا/VERB جاتا/AUX ہے/AUX تو/SCONJ اللہ/PROPN کے/ADP حضور/PROPN سجدہ/NOUN ریز/NOUN نہیں/PART ہوتے/VERB ۔/PUNCT
+بلکہ/SCONJ کافر/ADJ لوگ/NOUN اسے/PRON مزید/ADJ جھٹلا/VERB رہے/AUX ہیں/AUX ۔/PUNCT
+اور/CCONJ اللہ/PROPN کفر/NOUN و/CCONJ عداوت/NOUN کے/ADP اس/DET سامان/NOUN کو/ADP خوب/ADJ جانتا/VERB ہے/AUX جو/PRON وہ/PRON جمع/NOUN کر/VERB رہے/AUX ہیں/AUX ۔/PUNCT
+سو/NUM آپ/PRON انہیں/PRON دردناک/ADJ عذاب/NOUN کی/ADP بشارت/NOUN دے/VERB دیں/AUX ۔/PUNCT
+مگر/CCONJ جو/DET لوگ/NOUN ایمان/NOUN لائے/VERB اور/CCONJ نیک/ADJ عمل/NOUN کرتے/VERB ہیں/AUX ان/PRON کے/ADP لئے/ADP غیر/ADJ منقطع/ADJ دائمی/ADJ ثواب/NOUN ہے/AUX ۔/PUNCT
+برجوں/NOUN یعنی/ADV کہکشاؤں/NOUN والے/ADP آسمان/NOUN کی/ADP قسم/NOUN ۔/PUNCT
+اور/CCONJ اس/DET دن/NOUN کی/ADP قسم/NOUN جس/PRON کا/ADP وعدہ/NOUN کیا/VERB گیا/AUX ہے/AUX ۔/PUNCT
+جو/PRON اس/DET دن/NOUN حاضر/ADJ ہوگا/VERB اس/PRON کی/ADP قسم/NOUN اور/CCONJ جو/PRON کچھ/DET حاضر/ADJ کیا/VERB جائے/AUX گا/AUX اس/PRON کی/ADP قسم/NOUN ۔/PUNCT
+خندقوں/NOUN والے/ADP لوگ/NOUN ہلاک/ADJ کر/VERB دیے/AUX گئے/AUX ۔/PUNCT
+یعنی/SCONJ اس/DET بھڑکتی/VERB آگ/NOUN والے/ADP جو/PRON بڑے/ADJ ایندھن/NOUN سے/ADP جلائی/VERB گئی/AUX تھی/AUX ۔/PUNCT
+جب/PRON وہ/PRON اس/PRON کے/ADP کناروں/NOUN پر/ADP بیٹھے/VERB تھے/AUX ۔/PUNCT
+اور/CCONJ وہ/PRON خود/PRON گواہ/NOUN ہیں/AUX جو/PRON کچھ/DET وہ/PRON اہل/NOUN ایمان/NOUN کے/ADP ساتھ/ADP کر/VERB رہے/AUX تھے/AUX یعنی/SCONJ انہیں/PRON آگ/NOUN میں/ADP پھینک/VERB پھینک/VERB کر/AUX جلا/VERB رہے/AUX تھے/AUX ۔/PUNCT
+اور/CCONJ انہیں/PRON ان/DET مومنوں/NOUN کی/ADP طرف/ADP سے/ADP اور/CCONJ کچھ/PRON بھی/PART ناگوار/ADJ نہ/PART تھا/AUX سوائے/SCONJ اس/PRON کے/ADP کہ/PART وہ/PRON اللہ/PROPN پر/ADP ایمان/NOUN لے/VERB آئے/AUX تھے/AUX جو/PRON غالب/ADJ اور/CCONJ لائق/NOUN حمد/NOUN و/CCONJ ثنا/NOUN ہے/AUX ۔/PUNCT
+جس/PRON کے/ADP لئے/ADP آسمانوں/NOUN اور/CCONJ زمین/NOUN کی/ADP ساری/ADJ بادشاہت/NOUN ہے/AUX ،/PUNCT اور/CCONJ اللہ/PROPN ہر/ADJ چیز/NOUN پر/ADP گواہ/NOUN ہے/AUX ۔/PUNCT
+بیشک/X جن/DET لوگوں/NOUN نے/ADP مومن/ADJ مردوں/NOUN اور/CCONJ مومن/ADJ عورتوں/NOUN کو/ADP اذیت/NOUN دی/VERB پھر/ADV توبہ/NOUN بھی/PART نہ/PART کی/VERB تو/SCONJ ان/PRON کے/ADP لئے/ADP عذاب/NOUN جہنم/NOUN ہے/AUX اور/CCONJ ان/PRON کے/ADP لئے/ADP بالخصوص/ADV آگ/NOUN میں/ADP جلنے/VERB کا/ADP عذاب/NOUN ہے/AUX ۔/PUNCT
+بیشک/X جو/DET لوگ/NOUN ایمان/NOUN لائے/VERB اور/CCONJ نیک/ADJ عمل/NOUN کرتے/VERB رہے/AUX ان/PRON کے/ADP لئے/ADP جنتیں/VERB ہیں/AUX جن/PRON کے/ADP نیچے/ADP سے/ADP نہریں/NOUN جاری/ADJ ہیں/VERB ،/PUNCT یہی/DET بڑی/ADJ کامیابی/NOUN ہے/AUX ۔/PUNCT
+بیشک/NOUN آپ/PRON کے/ADP رب/NOUN کی/ADP پکڑ/NOUN بہت/ADV سخت/ADJ ہے/AUX ۔/PUNCT
+بیشک/X وہی/PRON پہلی/ADJ بار/NOUN پیدا/ADJ فرماتا/VERB ہے/AUX اور/CCONJ وہی/PRON دوبارہ/ADV پیدا/ADJ فرمائے/VERB گا/AUX ۔/PUNCT
+اور/CCONJ وہ/PRON بڑا/ADJ بخشنے/VERB والا/ADP بہت/ADJ محبت/NOUN فرمانے/VERB والا/ADP ہے/VERB ۔/PUNCT
+مالک/NOUN عرش/NOUN یعنی/ADV پوری/ADJ کائنات/NOUN کے/ADP تخت/NOUN اقتدار/NOUN کا/ADP مالک/NOUN بڑی/ADJ شان/NOUN والا/ADP ہے/AUX ۔/PUNCT
+وہ/PRON جو/PRON بھی/PART ارادہ/NOUN فرماتا/VERB ہے/AUX اسے/PRON خوب/ADJ کر/VERB دینے/AUX والا/ADP ہے/VERB ۔/PUNCT
+کیا/PRON آپ/PRON کے/ADP پاس/ADP لشکروں/NOUN کی/ADP خبر/NOUN پہنچی/VERB ہے/AUX ۔/PUNCT
+فرعون/PROPN اور/CCONJ ثمود/PROPN کے/ADP لشکروں/NOUN کے/ADP ۔/PUNCT
+بلکہ/SCONJ ایسے/DET کافر/NOUN ہمیشہ/ADV حق/NOUN کو/ADP جھٹلانے/VERB میں/ADP ہی/PART کوشاں/ADJ رہتے/VERB ہیں/AUX ۔/PUNCT
+اور/CCONJ اللہ/PROPN ان/PRON کے/ADP گرد/NOUN و/CCONJ پیش/ADV سے/ADP انہیں/PRON گھیرے/VERB ہوئے/AUX ہے/AUX ۔/PUNCT
+بلکہ/SCONJ یہ/PRON بڑی/ADJ عظمت/NOUN والا/ADP قرآن/NOUN ہے/AUX ۔/PUNCT
+جو/PRON لوح/NOUN محفوظ/NOUN میں/ADP لکھا/VERB ہوا/AUX ہے/AUX ۔/PUNCT
+آسمان/NOUN کی/ADP فضائے/NOUN بسیط/NOUN اور/CCONJ خلائے/NOUN عظیم/NOUN کی/ADP قسم/NOUN اور/CCONJ رات/NOUN کو/ADP نظر/NOUN آنے/VERB والے/ADP کی/ADP قسم/NOUN ۔/PUNCT
+اور/CCONJ آپ/PRON کو/ADP کیا/PRON معلوم/ADJ کہ/SCONJ رات/NOUN کو/ADP نظر/NOUN آنے/VERB والا/ADP کیا/VERB ہے/AUX ۔/PUNCT
+اس/PRON سے/ADP مراد/NOUN ہر/DET وہ/PRON آسمانی/ADJ کرہ/NOUN ہے/AUX خواہ/SCONJ وہ/PRON ستارہ/NOUN ہو/VERB یا/CCONJ سیارہ/NOUN یا/CCONJ اجرام/NOUN سماوی/NOUN کا/ADP کوئی/PRON اور/CCONJ کرہ/NOUN جو/PRON چمک/NOUN کر/AUX فضا/NOUN کو/ADP روشن/ADJ کر/VERB دیتا/AUX ہے/AUX ۔/PUNCT
+کوئی/DET شخص/NOUN ایسا/PRON نہیں/PART جس/PRON پر/ADP ایک/NUM نگہبان/NOUN مقرر/ADJ نہیں/PART ہے/AUX ۔/PUNCT
+پس/NOUN انسان/NOUN کو/ADP غور/NOUN و/CCONJ تحقیق/NOUN کرنا/VERB چاہیے/AUX کہ/SCONJ وہ/PRON کس/DET چیز/NOUN سے/ADP پیدا/ADJ کیا/VERB گیا/AUX ہے/AUX ۔/PUNCT
+وہ/PRON قوت/NOUN سے/ADP اچھلنے/VERB والے/ADP پانی/NOUN یعنی/ADV قوی/ADJ اور/CCONJ متحرک/ADJ مادۂ/ADJ تولید/NOUN میں/ADP سے/ADP پیدا/ADJ کیا/VERB گیا/AUX ہے/AUX ۔/PUNCT
+جو/PRON پیٹھ/NOUN اور/CCONJ کولہے/NOUN کی/ADP ہڈیوں/NOUN کے/ADP درمیان/ADP پیڑو/NOUN کے/ADP حلقہ/NOUN میں/ADP سے/ADP گزر/VERB کر/AUX باہر/ADV نکلتا/VERB ہے/AUX ۔/PUNCT
+بیشک/X وہ/PRON اس/DET زندگی/NOUN کو/ADP پھر/PART واپس/ADJ لانے/VERB پر/ADP بھی/PART قادر/ADJ ہے/VERB ۔/PUNCT
+جس/DET دن/NOUN سب/PRON راز/NOUN ظاہر/ADJ کر/VERB دیے/AUX جائیں/AUX گے/AUX ۔/PUNCT
+پھر/ADV انسان/NOUN کے/ADP پاس/ADP نہ/PART خود/PRON کوئی/PRON قوت/NOUN ہوگی/VERB اور/CCONJ نہ/PART کوئی/PRON اس/PRON کا/ADP مددگار/ADJ ہوگا/VERB ۔/PUNCT
+اس/DET آسمانی/ADJ کائنات/NOUN کی/ADP قسم/NOUN جو/PRON پھر/PART اپنی/PRON ابتدائی/ADJ حالت/NOUN میں/ADP پلٹ/VERB جانے/AUX والی/ADP ہے/VERB ۔/PUNCT
+اس/DET زمین/NOUN کی/ADP قسم/NOUN جو/PRON پھٹ/VERB کر/AUX ریزہ/NOUN ریزہ/ADJ ہو/VERB جانے/AUX والی/ADP ہے/VERB ۔/PUNCT
+بیشک/X یہ/DET فیصلہ/NOUN کن/ADJ قطعی/ADJ فرمان/NOUN ہے/AUX ۔/PUNCT
+اور/CCONJ یہ/DET ہنسی/NOUN کی/ADP بات/NOUN نہیں/PART ہے/AUX ۔/PUNCT
+بیشک/X وہ/PRON کافر/NOUN پر/ADP فریب/NOUN تدبیروں/NOUN میں/ADP لگے/VERB ہوئے/AUX ہیں/AUX ۔/PUNCT
+اور/CCONJ میں/PRON اپنی/PRON تدبیر/NOUN فرما/VERB رہا/AUX ہوں/AUX ۔/PUNCT
+پس/NOUN آپ/PRON کافروں/NOUN کو/ADP ذرا/VERB مہلت/NOUN دے/VERB دیجئے/AUX ،/PUNCT زیادہ/ADJ نہیں/PART بس/NOUN انہیں/PRON تھوڑی/ADJ سی/PART ڈھیل/NOUN اور/CCONJ دے/VERB دیجئے/AUX ۔/PUNCT
+اپنے/PRON رب/NOUN کے/ADP نام/NOUN کی/ADP تسبیح/NOUN کریں/VERB جو/PRON سب/PRON سے/ADP بلند/ADJ ہے/AUX ۔/PUNCT
+جس/PRON نے/ADP کائنات/NOUN کی/ADP ہر/ADJ چیز/NOUN کو/ADP پیدا/ADJ کیا/VERB پھر/ADV اسے/PRON جملہ/ADJ تقاضوں/NOUN کی/ADP تکمیل/NOUN کے/ADP ساتھ/ADP درست/ADJ توازن/NOUN دیا/VERB ۔/PUNCT
+اور/CCONJ جس/PRON نے/ADP ہر/DET ہر/ADJ چیز/NOUN کے/ADP لئے/ADP قانون/NOUN مقرر/ADJ کیا/VERB پھر/ADV اسے/PRON اپنے/PRON اپنے/PRON نظام/NOUN کے/ADP مطابق/ADP رہنے/VERB اور/CCONJ چلنے/VERB کا/ADP راستہ/NOUN بتایا/VERB ۔/PUNCT
+اور/CCONJ جس/PRON نے/ADP زمین/NOUN سے/ADP چارہ/NOUN نکالا/VERB ۔/PUNCT
+پھر/ADV اسے/PRON سیاہی/ADJ مائل/NOUN خشک/ADJ کردیا/VERB ۔/PUNCT
+اے/PROPN حبیب/PROPN مکرم/PROPN !/PUNCT ہم/PRON آپ/PRON کو/ADP خود/PRON ایسا/PRON پڑھائیں/VERB گے/AUX کہ/SCONJ آپ/PRON کبھی/PRON نہیں/PART بھولیں/VERB گے/AUX ۔/PUNCT
+مگر/CCONJ جو/PRON اﷲ/NOUN چاہے/VERB ،/PUNCT بیشک/X وہ/PRON جہر/NOUN اور/CCONJ خفی/NOUN یعنی/ADV ظاہر/ADJ و/CCONJ پوشیدہ/ADJ اور/CCONJ بلند/ADJ و/CCONJ آہستہ/ADJ سب/PRON باتوں/NOUN کو/ADP جانتا/VERB ہے/AUX ۔/PUNCT
+اور/CCONJ ہم/PRON آپ/PRON کو/ADP اس/DET آسان/ADJ شریعت/NOUN پر/ADP عمل/NOUN پیرا/ADJ ہونے/VERB کے/ADP لئے/ADP بھی/PART سہولت/NOUN فراہم/ADJ فرمائیں/VERB گے/AUX ۔/PUNCT
+پس/NOUN آپ/PRON نصیحت/NOUN فرماتے/VERB رہیے/AUX بشرطیکہ/ADV نصیحت/NOUN سننے/VERB والوں/ADP کو/ADP فائدہ/NOUN دے/VERB ۔/PUNCT
+البتہ/SCONJ وہی/DET نصیحت/NOUN قبول/NOUN کرے/VERB گا/AUX جو/PRON اﷲ/PROPN سے/ADP ڈرتا/VERB ہوگا/AUX ۔/PUNCT
+اور/CCONJ بدبخت/NOUN اس/DET نصیحت/NOUN سے/ADP پہلو/NOUN تہی/NOUN کرے/VERB گا/AUX ۔/PUNCT
+جو/PRON قیامت/NOUN کے/ADP دن/NOUN سب/PRON سے/ADP بڑی/ADJ آگ/NOUN میں/ADP داخل/NOUN ہوگا/VERB ۔/PUNCT
+پھر/ADV وہ/PRON اس/PRON میں/ADP نہ/PART مرے/VERB گا/AUX اور/CCONJ نہ/PART جیئے/VERB گا/AUX ۔/PUNCT
+بیشک/X وہی/DET بامراد/ADJ ہوا/VERB جو/PRON نفس/NOUN کی/ADP آفتوں/NOUN اور/CCONJ گناہ/NOUN کی/ADP آلودگیوں/NOUN سے/ADP پاک/ADJ ہوگیا/VERB ۔/PUNCT
+اور/CCONJ وہ/PRON اپنے/PRON رب/NOUN کے/ADP نام/NOUN کا/ADP ذکر/NOUN کرتا/VERB رہا/AUX اور/CCONJ کثرت/NOUN و/CCONJ پابندی/NOUN سے/ADP نماز/NOUN پڑھتا/VERB رہا/AUX ۔/PUNCT
+بلکہ/SCONJ تم/PRON اﷲ/PROPN کی/ADP طرف/ADP رجوع/NOUN کرنے/VERB کی/ADP بجائے/PART دنیاوی/ADJ زندگی/NOUN کی/ADP لذتوں/NOUN کو/ADP اختیار/NOUN کرتے/VERB ہو/AUX ۔/PUNCT
+حالانکہ/SCONJ آخرت/NOUN کی/ADP لذت/NOUN و/CCONJ راحت/NOUN بہتر/ADJ اور/CCONJ ہمیشہ/ADV باقی/ADJ رہنے/VERB والی/ADP ہے/VERB ۔/PUNCT
+بیشک/X یہ/DET تعلیم/NOUN اگلے/ADJ صحیفوں/NOUN میں/ADP بھی/PART مذکور/ADJ ہے/AUX ۔/PUNCT
+جو/PRON ابراہیم/PROPN اور/CCONJ موسٰی/PROPN علیہما/PROPN السلام/PROPN کے/ADP صحائف/NOUN ہیں/AUX ۔/PUNCT
+کیا/PRON آپ/PRON کو/ADP ہر/ADJ چیز/NOUN پر/ADP چھا/VERB جانے/AUX والی/ADP قیامت/NOUN کی/ADP خبر/NOUN پہنچی/VERB ہے/AUX ۔/PUNCT
+اس/DET دن/NOUN کتنے/DET ہی/PART چہرے/NOUN ذلیل/ADJ و/CCONJ خوار/ADJ ہوں/AUX گے/AUX ۔/PUNCT
+اﷲ/PROPN کو/ADP بھول/VERB کر/AUX دنیاوی/ADJ محنت/NOUN کرنے/VERB والے/ADP چند/DET روزہ/ADJ عیش/NOUN و/CCONJ آرام/NOUN کی/ADP خاطر/ADP سخت/ADJ مشقتیں/NOUN جھیلنے/VERB والے/AUX ۔/PUNCT
+دہکتی/VERB ہوئی/VERB آگ/NOUN میں/ADP جا/VERB گریں/AUX گے/AUX ۔/PUNCT
+انہیں/PRON کھولتے/VERB ہوئے/AUX چشمہ/NOUN سے/ADP پانے/VERB پلایا/VERB جائے/AUX گا/AUX ۔/PUNCT
+ان/PRON کے/ADP لئے/ADP خاردار/ADJ خشک/ADJ زہریلی/ADJ جھاڑیوں/NOUN کے/ADP سوا/ADP کچھ/DET کھانا/NOUN نہ/PART ہوگا/VERB ۔/PUNCT
+یہ/DET کھانا/NOUN نہ/PART فربہ/ADJ کرے/VERB گا/AUX اور/CCONJ نہ/PART بھوک/NOUN ہی/PART دور/ADJ کرے/VERB گا/AUX ۔/PUNCT
+اس/PRON کے/ADP برعکس/ADP اس/DET دن/NOUN بہت/ADV سے/ADP چہرے/NOUN حسین/PROPN بارونق/ADJ اور/CCONJ ترو/PROPN تازہ/ADJ ہوں/AUX گے/AUX ۔/PUNCT
+اپنی/PRON نیک/ADJ کاوشوں/NOUN کے/ADP باعث/ADP خوش/ADJ و/CCONJ خرم/ADJ ہوں/AUX گے/AUX ۔/PUNCT
+عالی/ADJ شان/NOUN جنت/NOUN میں/ADP قیام/NOUN پذیر/ADJ ہوں/AUX گے/AUX ۔/PUNCT
+اس/PRON میں/ADP کوئی/PRON لغو/ADJ بات/NOUN نہ/PART سنیں/VERB گے/AUX جیسے/PRON اہل/NOUN باطل/NOUN ان/PRON سے/ADP دنیا/NOUN میں/ADP کیا/VERB کرتے/AUX تھے/AUX ۔/PUNCT
+اس/PRON میں/ADP بہتے/VERB ہوئے/AUX چشمے/NOUN ہوں/AUX گے/AUX ۔/PUNCT
+اس/PRON میں/ADP اونچے/ADJ بچھے/VERB ہوئے/AUX تخت/NOUN ہوں/AUX گے/AUX ۔/PUNCT
+اور/CCONJ جام/ADJ بڑے/ADJ قرینے/NOUN سے/ADP رکھے/VERB ہوئے/AUX ہوں/AUX گے/AUX ۔/PUNCT
+اور/CCONJ غالیچے/NOUN اور/CCONJ گاؤ/NOUN تکیے/ADJ قطار/NOUN در/ADP قطار/NOUN لگے/VERB ہوں/AUX گے/AUX ۔/PUNCT
+اور/CCONJ نرم/ADJ و/CCONJ نفیس/ADJ قالین/NOUN اور/CCONJ مسندیں/NOUN بچھی/VERB ہوں/AUX گی/AUX ۔/PUNCT
+منکرین/NOUN تعجب/NOUN کرتے/VERB ہیں/AUX کہ/SCONJ جنت/NOUN میں/ADP یہ/DET سب/PRON کچھ/DET کیسے/PRON بن/VERB جائے/AUX گا/AUX !/PUNCT تو/SCONJ کیا/PRON یہ/DET لوگ/NOUN اونٹ/NOUN کی/ADP طرف/ADP نہیں/PART دیکھتے/VERB کہ/SCONJ وہ/PRON کس/DET طرح/NOUN عجیب/ADJ ساخت/NOUN پر/ADP بنایا/VERB گیا/AUX ہے/AUX ۔/PUNCT
+اور/CCONJ آسمان/NOUN کی/ADP طرف/ADP نگاہ/NOUN نہیں/PART کرتے/VERB کہ/SCONJ وہ/PRON کیسے/PRON عظیم/ADJ وسعتوں/NOUN کے/ADP ساتھ/ADP اٹھایا/VERB گیا/AUX ہے/AUX ۔/PUNCT
+اور/CCONJ پہاڑوں/NOUN کو/ADP نہیں/PART دیکھتے/VERB کہ/SCONJ وہ/PRON کس/DET طرح/NOUN زمین/NOUN سے/ADP ابھار/VERB کر/AUX کھڑے/VERB کئے/VERB گئے/AUX ہیں/AUX ۔/PUNCT
+اور/CCONJ زمین/NOUN کو/ADP نہیں/PART دیکھتے/VERB کہ/SCONJ وہ/PRON کس/DET طرح/NOUN گولائی/NOUN کے/ADP باوجود/ADP بچھائی/VERB گئی/AUX ہے/AUX ۔/PUNCT
+پس/NOUN آپ/PRON نصیحت/NOUN فرماتے/VERB رہئے/AUX ،/PUNCT آپ/PRON تو/PART نصیحت/NOUN ہی/PART فرمانے/VERB والے/AUX ہیں/AUX ۔/PUNCT
+آپ/PRON ان/PRON پر/ADP جابر/NOUN و/CCONJ قاہر/NOUN کے/ADP طور/ADP پر/ADP مسلط/ADJ نہیں/PART ہیں/VERB ۔/PUNCT
+مگر/CCONJ جو/DET روگردانی/NOUN کرے/VERB اور/CCONJ کفر/NOUN کرے/VERB ۔/PUNCT
+تو/SCONJ اسے/PRON اﷲ/NOUN سب/PRON سے/ADP بڑا/ADJ عذاب/NOUN دے/VERB گا/AUX ۔/PUNCT
+بیشک/X بالآخر/ADV ہماری/PRON ہی/PART طرف/ADP ان/PRON کا/ADP پلٹنا/VERB ہے/VERB ۔/PUNCT
+پھر/ADV یقینا/PRON ہمارے/PRON ہی/PART ذمہ/NOUN ان/PRON کا/ADP حساب/NOUN لینا/VERB ہے/AUX ۔/PUNCT
+اس/DET صبح/NOUN کی/ADP قسم/NOUN جس/PRON سے/ADP ظلمت/NOUN شب/NOUN چھٹ/VERB گئی/AUX ۔/PUNCT
+اور/CCONJ دس/NUM مبارک/ADJ راتوں/NOUN کی/ADP قسم/NOUN ۔/PUNCT
+اور/CCONJ جفت/NOUN کی/ADP قسم/NOUN اور/CCONJ طاق/NOUN کی/ADP قسم/NOUN ۔/PUNCT
+اور/CCONJ رات/NOUN کی/ADP قسم/NOUN جب/PRON گزر/VERB چلے/AUX مراد/ADJ ہر/DET شب/NOUN ہے/AUX یا/CCONJ بطور/ADP خاص/ADJ شب/NOUN مزدلفہ/NOUN یا/CCONJ شب/NOUN قدر/NOUN ۔/PUNCT
+بیشک/X ان/PRON میں/ADP عقل/NOUN مند/NOUN کے/ADP لئے/ADP بڑی/ADJ قسم/NOUN ہے/AUX ۔/PUNCT
+کیا/PRON آپ/PRON نے/ADP نہیں/PART دیکھا/VERB کہ/SCONJ آپ/PRON کے/ADP رب/NOUN نے/ADP قوم/NOUN عاد/NOUN کے/ADP ساتھ/ADP کیسا/PRON سلوک/NOUN کیا/VERB ؟/PUNCT ۔/PUNCT
+جو/DET اہل/NOUN ارم/NOUN تھے/AUX اور/CCONJ بڑے/ADJ بڑے/ADJ ستونوں/NOUN کی/ADP طرح/ADP دراز/ADJ قد/NOUN اور/CCONJ اونچے/ADJ محلات/NOUN والے/ADP تھے/AUX ۔/PUNCT
+جن/PRON کا/ADP مثل/NOUN دنیا/NOUN کے/ADP ملکوں/NOUN میں/ADP کوئی/PRON بھی/PART پیدا/ADJ نہیں/PART کیا/VERB گیا/AUX ۔/PUNCT
+اور/CCONJ ثمود/NOUN کے/ADP ساتھ/ADP کیا/DET سلوک/NOUN ہوا/VERB جنہوں/PRON نے/ADP وادئ/PROPN قری/PROPN میں/ADP چٹانوں/NOUN کو/ADP کاٹ/VERB کر/AUX پتھروں/NOUN سے/ADP سینکڑوں/NUM شہروں/NOUN کو/ADP تعمیر/NOUN کر/VERB ڈالا/AUX تھا/AUX ۔/PUNCT
+اور/CCONJ فرعون/PROPN کا/ADP کیا/DET حشر/NOUN ہوا/VERB جو/PRON بڑے/ADJ لشکروں/NOUN والا/ADP یا/CCONJ لوگوں/NOUN کو/ADP میخوں/NOUN سے/ADP سزا/NOUN دینے/VERB والا/ADP تھا/AUX ۔/PUNCT
+یہ/DET وہ/DET لوگ/NOUN تھے/AUX جنہوں/PRON نے/ADP اپنے/PRON اپنے/PRON ملکوں/NOUN میں/ADP سرکشی/NOUN کی/VERB تھی/AUX ۔/PUNCT
+پھر/ADV ان/PRON میں/ADP بڑی/ADJ فساد/NOUN انگیزی/NOUN کی/VERB تھی/AUX ۔/PUNCT
+تو/SCONJ آپ/PRON کے/ADP رب/NOUN نے/ADP ان/PRON پر/ADP عذاب/NOUN کا/ADP کوڑا/NOUN برسایا/VERB ۔/PUNCT
+بیشک/X آپ/PRON کا/ADP رب/NOUN سرکشوں/NOUN اور/CCONJ نافرمانوں/NOUN کی/ADP خوب/NOUN تاک/NOUN میں/ADP ہے/AUX ۔/PUNCT
+مگر/CCONJ انسان/NOUN ایسا/PRON ہے/AUX کہ/SCONJ جب/PRON اس/PRON کا/ADP رب/NOUN اسے/PRON راحت/NOUN و/CCONJ آسائش/NOUN دے/VERB کر/AUX آزماتا/VERB ہے/AUX اور/CCONJ اسے/PRON عزت/NOUN سے/ADP نوازتا/VERB ہے/AUX اور/CCONJ اسے/PRON نعمتیں/NOUN بخشتا/ADJ ہے/VERB تو/SCONJ وہ/PRON کہتا/VERB ہے/AUX :/PUNCT میرے/PRON رب/NOUN نے/ADP مجھ/PRON پر/ADP کرم/NOUN فرمایا/VERB ۔/PUNCT
+لیکن/CCONJ جب/PRON وہ/PRON اسے/PRON تکلیف/NOUN و/CCONJ مصیبت/NOUN دے/VERB کر/AUX آزماتا/VERB ہے/AUX اور/CCONJ اس/PRON پر/ADP اس/PRON کا/ADP رزق/NOUN تنگ/ADJ کرتا/VERB ہے/AUX تو/SCONJ وہ/PRON کہتا/VERB ہے/AUX :/PUNCT میرے/PRON رب/NOUN نے/ADP مجھے/PRON ذلیل/ADJ کر/VERB دیا/AUX ۔/PUNCT
+یہ/DET بات/NOUN نہیں/PART بلکہ/SCONJ حقیقت/NOUN یہ/PRON ہے/AUX کہ/SCONJ عزت/NOUN اور/CCONJ مال/NOUN و/CCONJ دولت/NOUN کے/ADP ملنے/VERB پر/ADP تم/PRON یتیموں/NOUN کی/ADP قدر/NOUN و/CCONJ اکرام/NOUN نہیں/PART کرتے/VERB ۔/PUNCT
+اور/CCONJ نہ/PART ہی/PART تم/PRON مسکینوں/NOUN یعنی/ADV غریبوں/NOUN اور/CCONJ محتاجوں/NOUN کو/ADP کھانا/NOUN کھلانے/VERB کی/ADP معاشرے/NOUN میں/ADP ایک/NUM دوسرے/PRON کو/ADP ترغیب/NOUN دیتے/VERB ہو/AUX ۔/PUNCT
+اور/CCONJ وراثت/NOUN کا/ADP سارا/ADJ مال/NOUN سمیٹ/VERB کر/AUX خود/PRON ہی/PART کھا/VERB جاتے/AUX ہو/AUX اس/PRON میں/ADP سے/ADP افلاس/NOUN زدہ/ADJ لوگوں/NOUN کا/ADP حق/NOUN نہیں/PART نکالتے/VERB ۔/PUNCT
+اور/CCONJ تم/PRON مال/NOUN و/CCONJ دولت/NOUN سے/ADP حد/NOUN درجہ/NOUN محبت/NOUN رکھتے/VERB ہو/AUX ۔/PUNCT
+یقینا/PRON جب/PRON زمین/NOUN پاش/ADJ پاش/ADJ کر/VERB کے/AUX ریزہ/NOUN ریزہ/ADJ کر/VERB دی/AUX جائے/AUX گی/AUX ۔/PUNCT
+اور/CCONJ آپ/PRON کا/ADP رب/NOUN جلوہ/NOUN فرما/VERB ہوگا/AUX اور/CCONJ فرشتے/NOUN قطار/NOUN در/ADP قطار/NOUN اس/PRON کے/ADP حضور/NOUN حاضر/ADJ ہوں/AUX گے/AUX ۔/PUNCT
+اور/CCONJ اس/DET دن/NOUN دوزخ/NOUN پیش/ADV کی/VERB جائے/AUX گی/AUX ،/PUNCT اس/DET دن/NOUN انسان/NOUN کو/ADP سمجھ/VERB آجائے/AUX گی/AUX مگر/CCONJ اب/PRON اسے/PRON نصیحت/NOUN کہاں/PRON فائدہ/NOUN مند/ADJ ہوگی/VERB ۔/PUNCT
+وہ/PRON کہے/VERB گا/AUX :/PUNCT اے/PROPN کاش/NOUN !/PUNCT میں/PRON نے/ADP اپنی/PRON اس/DET اصل/ADJ زندگی/NOUN کے/ADP لئے/ADP کچھ/DET آگے/ADV بھیج/VERB دیا/AUX ہوتا/AUX جو/PRON آج/NOUN میرے/PRON کام/NOUN آتا/VERB ۔/PUNCT
+سو/NUM اس/DET دن/NOUN نہ/PART اس/PRON کے/ADP عذاب/NOUN کی/ADP طرح/ADP کوئی/PRON عذاب/NOUN دے/VERB سکے/AUX گا/AUX ۔/PUNCT
+اور/CCONJ نہ/PART اس/PRON کے/ADP جکڑنے/VERB کی/ADP طرح/ADP کوئی/PRON جکڑ/VERB سکے/AUX گا/AUX ۔/PUNCT
+اے/NOUN اطمینان/NOUN پا/VERB جانے/AUX والے/ADP نفس/NOUN ۔/PUNCT
+تو/SCONJ اپنے/PRON رب/NOUN کی/ADP طرف/ADP اس/DET حال/NOUN میں/ADP لوٹ/VERB آکہ/AUX تو/SCONJ اس/PRON کی/ADP رضا/NOUN کا/ADP طالب/NOUN بھی/PART ہو/VERB اور/CCONJ اس/PRON کی/ADP رضا/NOUN کا/ADP مطلوب/NOUN بھی/PART گویا/PART اس/PRON کی/ADP رضا/NOUN تیری/PRON مطلوب/ADJ ہو/VERB اور/CCONJ تیری/PRON رضا/NOUN اس/PRON کی/ADP مطلوب/ADJ ۔/PUNCT
+پس/NOUN تو/PART میرے/PRON کامل/ADJ بندوں/NOUN میں/ADP شامل/ADJ ہو/VERB جا/AUX ۔/PUNCT
+اور/CCONJ میری/PRON جنت/NOUN قربت/NOUN و/CCONJ دیدار/NOUN میں/ADP داخل/NOUN ہو/VERB جا/AUX ۔/PUNCT
+میں/PRON اس/DET شہر/NOUN مکہ/PROPN کی/ADP قسم/NOUN کھاتا/VERB ہوں/AUX ۔/PUNCT
+اے/PROPN حبیب/PROPN مکرم/PROPN !/PUNCT اس/PRON لئے/ADP کہ/SCONJ آپ/PRON اس/DET شہر/NOUN میں/ADP تشریف/NOUN فرما/VERB ہیں/AUX ۔/PUNCT
+اے/PROPN حبیب/PROPN مکرم/PROPN !/PUNCT آپ/PRON کے/ADP والد/NOUN آدم/PROPN یا/CCONJ ابراہیم/PROPN علیہما/PROPN السلام/PROPN کی/ADP قسم/NOUN اور/CCONJ ان/PRON کی/ADP قسم/NOUN جن/PRON کی/ADP ولادت/NOUN ہوئی/VERB ۔/PUNCT
+بیشک/X ہم/PRON نے/ADP انسان/NOUN کو/ADP مشقت/NOUN میں/ADP مبتلا/ADJ رہنے/VERB والا/ADP پیدا/ADJ کیا/VERB ہے/AUX ۔/PUNCT
+کیا/PRON وہ/PRON یہ/DET گمان/NOUN کرتا/VERB ہے/AUX کہ/SCONJ اس/PRON پر/ADP ہرگز/ADV کوئی/PRON بھی/PART قابو/NOUN نہ/PART پا/VERB سکے/AUX گا/AUX ؟/PUNCT ۔/PUNCT
+وہ/PRON بڑے/ADJ فخر/NOUN سے/ADP کہتا/VERB ہے/AUX کہ/SCONJ میں/PRON نے/ADP ڈھیروں/NOUN مال/NOUN خرچ/NOUN کیا/VERB ہے/AUX ۔/PUNCT
+کیا/PRON وہ/PRON یہ/DET خیال/NOUN کرتا/VERB ہے/AUX کہ/SCONJ اسے/PRON یہ/DET فضول/ADJ خرچیاں/NOUN کرتے/VERB ہوئے/AUX کسی/PRON نے/ADP نہیں/PART دیکھا/VERB ۔/PUNCT
+کیا/PRON ہم/PRON نے/ADP اس/PRON کے/ADP لئے/ADP دو/NUM آنکھیں/NOUN نہیں/PART بنائیں/VERB ۔/PUNCT
+اور/CCONJ اسے/PRON ایک/NUM زبان/NOUN اور/CCONJ دو/NUM ہونٹ/NOUN نہیں/PART دئیے/VERB ۔/PUNCT
+اور/CCONJ ہم/PRON نے/ADP اسے/PRON خیر/NOUN و/CCONJ شر/NOUN کے/ADP دو/NUM نمایاں/ADJ راستے/NOUN بھی/PART دکھا/VERB دیئے/AUX ۔/PUNCT
+وہ/PRON تو/PART دین/NOUN حق/NOUN اور/CCONJ عمل/NOUN خیر/NOUN کی/ADP دشوار/NOUN گزار/NOUN گھاٹی/NOUN میں/ADP داخل/NOUN ہی/PART نہیں/PART ہوا/VERB ۔/PUNCT
+اور/CCONJ آپ/PRON کیا/PRON سمجھے/VERB ہیں/AUX کہ/SCONJ وہ/PRON دین/NOUN حق/NOUN کے/ADP مجاہدہ/NOUN کی/ADP گھاٹی/NOUN کیا/VERB ہے/AUX ۔/PUNCT
+وہ/PRON غلامی/NOUN و/CCONJ محکومی/NOUN کی/ADP زندگی/NOUN سے/ADP کسی/PRON گردن/NOUN کا/ADP آزاد/ADJ کرانا/VERB ہے/AUX ۔/PUNCT
+یا/CCONJ بھوک/NOUN والے/ADP دن/NOUN یعنی/ADV قحط/NOUN و/CCONJ افلاس/NOUN کے/ADP دور/NOUN میں/ADP غریبوں/NOUN اور/CCONJ محروم/ADJ المعیشت/ADJ لوگوں/NOUN کو/ADP کھانا/VERB کھلانا/VERB ہے/AUX یعنی/SCONJ ان/PRON کے/ADP معاشی/ADJ تعطل/NOUN اور/CCONJ ابتلاء/NOUN کو/ADP ختم/NOUN کرنے/VERB کی/ADP جد/ADJ و/CCONJ جہد/NOUN کرنا/VERB ہے/AUX ۔/PUNCT
